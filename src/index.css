@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+p{
+  text-align: center;
+  margin-top: 15px !important;
+}
+h1{
+  font-family: 'Oleo Script Swash Caps', cursive;
+  text-align: center;
+  margin-top: 52px !important;
+}
+a{
+  color: #fff !important;
+  font-size: 1.5rem;
+}
